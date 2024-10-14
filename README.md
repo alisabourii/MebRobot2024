@@ -11,4 +11,6 @@ ________________________________________________________________________________
 
 
 Lojik Kapılar:
+
+
 ![image](https://github.com/user-attachments/assets/af432910-a49c-4bab-80b3-5bc21fc3be6f)
